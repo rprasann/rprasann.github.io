@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Classifying the Human Microbiome: 
-
 ---
+# title: Assessing the Genetic Material of Patients with IBD
+
 
 Outline:
 - Personal Intro
