@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Classifying the Human Microbiome: 
-subtitle: Assessing the Genetic Material of Patients with IBD
+
 ---
 
 Outline:
@@ -16,3 +16,5 @@ Outline:
 - Evaluating my models
   - Silhoutte analysis etc.
 - Big Ideas
+
+# subtitle: Assessing the Genetic Material of Patients with IBD
